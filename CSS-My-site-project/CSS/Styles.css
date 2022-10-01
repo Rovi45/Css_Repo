@@ -1,0 +1,133 @@
+#page {
+    background-color: #EEF2FF;
+    margin:0;
+    min-width: 840px;
+}
+body {
+    margin:0;
+    text-align: center;
+}
+p{
+    line-height: 1.5;
+}
+
+#Myinfo{
+    margin:0;
+    padding: 10px;
+}
+#cloud1 {
+    position: relative;
+    left:300px;
+    top:30px;
+}
+#cloud2 {
+    position : absolute;
+    left:0px;
+    Top: 150px;
+}
+h1 {
+    margin:40px auto 5px auto;
+    font-family: 'Sacramento', cursive;
+    font-size:300%;
+    color:#11999E;
+}
+h2,h3{
+    color:#11999E;
+    margin-bottom: 10px;
+    font-family: 'Sacramento', cursive;
+    font-size:250%;
+}
+p {
+    font-family: 'Kalam', cursive;
+    font-size: 120%;
+}
+
+#hello{
+    width:50%;
+    margin: 100px auto 100px auto;
+}
+#MySkills {
+    width:50%;
+    margin: 100px auto 100px auto;
+}
+#techslack {
+    float:left;
+    margin-right:10px;
+}
+#Experience {
+    float:right;
+    margin-top: 5px;
+}
+.skill-row1 {
+    text-align:left;
+    margin: 20px;
+    padding:20px;
+}
+.skill-row2 {
+    text-align:left;
+    margin: 20px;
+    padding :20px;
+}
+#i-can-help {
+    width:50%;
+    margin: 100px auto 100px auto;
+}
+
+
+.buttonClass {
+    font-size:15px;
+    width:15%;
+    height:5%;
+    border-width:1px;
+    color:#EEF2FF;
+    border-color:#566963;
+    font-weight:bold;
+    border-radius:5px;
+    box-shadow:inset 0px 1px 3px 0px #91b8b3;
+    text-shadow:inset 0px -1px 0px #2b665e;
+    background:linear-gradient(#768d87, #6c7c7c);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#6c7c7c, #768d87);
+  }
+                         
+a {
+    text-decoration: none;
+}
+a:hover{
+    color:blue;
+}
+#footer{
+    background-color:#EEF2FF;
+    padding: 20px;
+}
+li{
+    display: inline-block;
+    margin: 5px 50px 5px 50px;
+}
+#Name{
+    text-decoration: underline;
+}
+#headimage {
+    display:inline-block;
+    position:absolute;
+    left:50px;
+}
+#ulheader {
+    text-align:right;
+    margin:0;
+}
+hr{
+    width:5%;
+    border-top: 8px dotted rgb(74, 163, 190);
+}
+
+
+
+
